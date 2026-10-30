@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "beIN SPORTS News",
+        "category": "bein",
+        "status": "online",
+        "logo": "⚽",
+        "embedUrl": "https://player.eishha.com/p/bein-sport-news.html"
+    },
+    {
+        "id": 2,
+        "name": "Al Arabiya Live",
+        "category": "news",
+        "status": "online",
+        "logo": "📰",
+        "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UC2n3B-e1jRz-S4hX2dK2_pA"
+    },
+    {
+        "id": 3,
+        "name": "Al Jazeera News",
+        "category": "news",
+        "status": "online",
+        "logo": "🌐",
+        "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCfiwzMa--6y20zs_CPVz44w"
+    },
+    {
+        "id": 4,
+        "name": "ON E Egypt",
+        "category": "egypt",
+        "status": "online",
+        "logo": "🇪🇬",
+        "embedUrl": "https://player.eishha.com/p/bein-sport-news.html"
+    },
+    {
+        "id": 5,
+        "name": "Drama Series Channel",
+        "category": "series",
+        "status": "online",
+        "logo": "🎬",
+        "embedUrl": "https://player.eishha.com/p/bein-sport-news.html"
+    }
+]
